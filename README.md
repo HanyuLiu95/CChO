@@ -1,4 +1,4 @@
-# Chinese Chemistry Olympiad, Complete 
+# Chinese Chemistry Olympiad Problems and Solutions 
 
 This project serves as a catalogue for the problems and solutions of the Chinese Chemistry Olympiad (Chinese: 中国化学奥林匹克竞赛, CChO). All exams (locals and finals) will be recorded in both the original (Chinese) and translated (English) versions.
 
